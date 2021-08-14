@@ -1,5 +1,5 @@
 === Etsy Scraper ===
-Contributors:      Artyom Mukhin <artyom.mukhin@gmail.com>;
+Contributors:      Artyom Mukhin <artyom.mukhin@gmail.com>
 Tags:              block
 Tested up to:      5.8.0
 Stable tag:        0.1.0
