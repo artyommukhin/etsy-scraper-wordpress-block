@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "custom-blocks/etsy-scraper",
+	"version": "0.1.0",
+	"title": "Etsy Scraper",
+	"category": "embed",
+	"icon": "smiley",
+	"description": "Block for retrieving info about Etsy item",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "etsy-scraper",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
